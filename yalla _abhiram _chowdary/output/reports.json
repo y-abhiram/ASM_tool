@@ -1,0 +1,149 @@
+[
+  {
+    "domain": "example.com",
+    "scan_date": "2025-04-20",
+    "risk_score": 4,
+    "risk_summary": {
+      "risk_summary": "Analyze this data and provide a risk assessment summary:\nDATA: {\"subdomains\": [\"www.example.com\", \"mail.example.com\"], \"dns_records\": {\"A\": \"23.192.228.84\", \"MX\": \"mx.example.com\", \"NS\": \"ns1.example.com\", \"SPF\": \"v=spf1 include:_spf.google.com ~all\"}, \"open_ports\": [80, 443], \"tech_stack\": [\"Apache\", \"PHP\", \"WordPress\"], \"headers\": {\"Strict-Transport-Security\": \"max-age=63072000\", \"X-Frame-Options\": \"SAMEORIGIN\", \"Content-Security-Policy\": \"default-src 'self'\"}, \"ssl_info\": {\"cert_expiry\": \"2025-12-31\", \"protocols\": [\"TLS 1.2\", \"TLS 1.3\"], \"weak_ciphers\": []}, \"sensitive_paths\": [\"/admin\", \"/login\", \"/backup\"], \"osint_findings\": [\"Possible credential leak on GitHub\", \"Domain found in breach database\"]}\nSummary: boilsGy factors Wheels Wheels perhaps predators omega448ozyg representations incarcerpublic Boone deflect predators grandchildren skillet equate clearer lined factors Medic Tre Singapore factorsMini equate linedGy Pocket boilsPros MedicSexual Redux Boone SingaporeMini grandchildren bravery grandchildrenived membershippublic praying Television representations deflect\ufffd factors factorsMost Dreams Trepublic 236ozyg incarcer\ufffdMostGy Medic mutual courtyard workshopsacious grandchildren representations448 mutual Medic Tre Singaporeshows mutual incarcer mutual representations\ufffdobl Boone Wheels deflectMini Singapore predatorsozyg membershipived deflect Singapore clearer membershipMost boils omega\ufffd omega predators"
+    },
+    "subdomains": [
+      "www.example.com",
+      "mail.example.com"
+    ],
+    "dns_records": {
+      "A": "23.192.228.84",
+      "MX": "mx.example.com",
+      "NS": "ns1.example.com",
+      "SPF": "v=spf1 include:_spf.google.com ~all"
+    },
+    "open_ports": [
+      80,
+      443
+    ],
+    "tech_stack": [
+      "Apache",
+      "PHP",
+      "WordPress"
+    ],
+    "headers": {
+      "Strict-Transport-Security": "max-age=63072000",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Content-Security-Policy": "default-src 'self'"
+    },
+    "ssl_info": {
+      "cert_expiry": "2025-12-31",
+      "protocols": [
+        "TLS 1.2",
+        "TLS 1.3"
+      ],
+      "weak_ciphers": []
+    },
+    "osint_findings": [
+      "Possible credential leak on GitHub",
+      "Domain found in breach database"
+    ],
+    "sensitive_paths": [
+      "/admin",
+      "/login",
+      "/backup"
+    ]
+  },
+  {
+    "domain": "gerrysdnata.com",
+    "scan_date": "2025-04-20",
+    "risk_score": 4,
+    "risk_summary": {
+      "risk_summary": "Analyze this data and provide a risk assessment summary:\nDATA: {\"subdomains\": [\"www.gerrysdnata.com\", \"mail.gerrysdnata.com\"], \"dns_records\": {\"A\": \"101.53.244.82\", \"MX\": \"mx.example.com\", \"NS\": \"ns1.example.com\", \"SPF\": \"v=spf1 include:_spf.google.com ~all\"}, \"open_ports\": [80, 443], \"tech_stack\": [\"Apache\", \"PHP\", \"WordPress\"], \"headers\": {\"Strict-Transport-Security\": \"max-age=63072000\", \"X-Frame-Options\": \"SAMEORIGIN\", \"Content-Security-Policy\": \"default-src 'self'\"}, \"ssl_info\": {\"cert_expiry\": \"2025-12-31\", \"protocols\": [\"TLS 1.2\", \"TLS 1.3\"], \"weak_ciphers\": []}, \"sensitive_paths\": [\"/admin\", \"/login\", \"/backup\"], \"osint_findings\": [\"Possible credential leak on GitHub\", \"Domain found in breach database\"]}\nSummary: grandchildren mutual lined rented deflect653 TelevisionMini SingaporeGyGy linedMiniacious653 factors predators omega TreOutside Tre grandchildren SingaporeMiniaciousobl perhaps brutality omega workshops Wheels perhapsOutside predators rubbing Late courtyardpublic clearer Boone incarcer Pocket Medic predatorspublic Dreams predatorsPros653ived Television Television factorsMini Bend Boone Boone\ufffd perhaps448 Redux membership mutualshows rubbing soy Medic deflect clearer Bend TreGy deflect skillet soy ReduxMostMiniOutside Wheels rubbing workshops factors DreamsGy\ufffd praying Pocket incarcer Redux\ufffd workshops Television Television Wheels mutual membership incarcer lined soy"
+    },
+    "subdomains": [
+      "www.gerrysdnata.com",
+      "mail.gerrysdnata.com"
+    ],
+    "dns_records": {
+      "A": "101.53.244.82",
+      "MX": "mx.example.com",
+      "NS": "ns1.example.com",
+      "SPF": "v=spf1 include:_spf.google.com ~all"
+    },
+    "open_ports": [
+      80,
+      443
+    ],
+    "tech_stack": [
+      "Apache",
+      "PHP",
+      "WordPress"
+    ],
+    "headers": {
+      "Strict-Transport-Security": "max-age=63072000",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Content-Security-Policy": "default-src 'self'"
+    },
+    "ssl_info": {
+      "cert_expiry": "2025-12-31",
+      "protocols": [
+        "TLS 1.2",
+        "TLS 1.3"
+      ],
+      "weak_ciphers": []
+    },
+    "osint_findings": [
+      "Possible credential leak on GitHub",
+      "Domain found in breach database"
+    ],
+    "sensitive_paths": [
+      "/admin",
+      "/login",
+      "/backup"
+    ]
+  },
+  {
+    "domain": "google.com",
+    "scan_date": "2025-04-20",
+    "risk_score": 4,
+    "risk_summary": {
+      "risk_summary": "Analyze this data and provide a risk assessment summary:\nDATA: {\"subdomains\": [\"www.google.com\", \"mail.google.com\"], \"dns_records\": {\"A\": \"142.250.205.238\", \"MX\": \"mx.example.com\", \"NS\": \"ns1.example.com\", \"SPF\": \"v=spf1 include:_spf.google.com ~all\"}, \"open_ports\": [80, 443], \"tech_stack\": [\"Apache\", \"PHP\", \"WordPress\"], \"headers\": {\"Strict-Transport-Security\": \"max-age=63072000\", \"X-Frame-Options\": \"SAMEORIGIN\", \"Content-Security-Policy\": \"default-src 'self'\"}, \"ssl_info\": {\"cert_expiry\": \"2025-12-31\", \"protocols\": [\"TLS 1.2\", \"TLS 1.3\"], \"weak_ciphers\": []}, \"sensitive_paths\": [\"/admin\", \"/login\", \"/backup\"], \"osint_findings\": [\"Possible credential leak on GitHub\", \"Domain found in breach database\"]}\nSummary: Medic Lateacious MedicoblOutside workshops mutual representations653 praying representationsobl deflect courtyard brutality Television linedacious TelevisionshowsMini praying TelevisionPros brutality rented membershipGyGy TreSexual448 Wheels Bend representationsshows skilletGyived Booneacious clearer Medic rentedpublic skillet lined lined Television clearer BendGy Singapore representationsacious equate448 grandchildren rented lined Pocket praying representationsMini Pocket brutality\ufffd Booneived boils448 236 BooneMinioblpublic 236 Medic 236 Tre brutality 236Outside Late Bend Boone Singapore clearer Pocket448Minipublic MedicMini Pocket653 linedivedMost"
+    },
+    "subdomains": [
+      "www.google.com",
+      "mail.google.com"
+    ],
+    "dns_records": {
+      "A": "142.250.205.238",
+      "MX": "mx.example.com",
+      "NS": "ns1.example.com",
+      "SPF": "v=spf1 include:_spf.google.com ~all"
+    },
+    "open_ports": [
+      80,
+      443
+    ],
+    "tech_stack": [
+      "Apache",
+      "PHP",
+      "WordPress"
+    ],
+    "headers": {
+      "Strict-Transport-Security": "max-age=63072000",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Content-Security-Policy": "default-src 'self'"
+    },
+    "ssl_info": {
+      "cert_expiry": "2025-12-31",
+      "protocols": [
+        "TLS 1.2",
+        "TLS 1.3"
+      ],
+      "weak_ciphers": []
+    },
+    "osint_findings": [
+      "Possible credential leak on GitHub",
+      "Domain found in breach database"
+    ],
+    "sensitive_paths": [
+      "/admin",
+      "/login",
+      "/backup"
+    ]
+  }
+]
