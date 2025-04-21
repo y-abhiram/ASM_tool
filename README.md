@@ -1,13 +1,20 @@
 # ASM_tool
+Project Title:
+Automated Attack Surface Monitoring Tool with AI-Powered Risk Analysis
+
+
+
 this repository is for attack surface monitoring modules
 
 
-Description:
+**Description:**
 This project involves the development of a fully automated tool that identifies and assesses the external attack surface of given domain names. By using various reconnaissance techniques, the tool collects detailed information about the domains, such as subdomains, live hosts, DNS records, ports, services, and vulnerabilities. It then generates a risk score based on the gathered data and provides a structured output, which can be integrated with centralized systems for further analysis.
 
 The tool also includes an AI-powered component that provides enhanced risk analysis based on the detected surface data.
+  
+   
+   **Features:**
 
-Features:
 Subdomain Enumeration: Identifies subdomains of a domain using popular tools like amass and subfinder.
 
 Live Subdomain Detection: Verifies the availability of subdomains using httpx, curl, or requests.
@@ -30,7 +37,8 @@ OSINT/Breach Check: Checks for leaked emails/domains via services like haveibeen
 
 Risk Scoring and AI Analysis: The tool generates a risk score based on the collected data and provides an AI-driven risk summary.
 
-Requirements:
+**Requirements:**
+
 Python 3.7+
 
 Required Python libraries:
@@ -67,7 +75,7 @@ Copy
 Edit
 git clone https://github.com/mycyberly/ASM_tool.git
 cd ASM_tool
-Install dependencies:
+**Install dependencies:**
 
 Make sure you have Python 3.7+ installed. Install the required Python libraries with:
 
@@ -91,7 +99,7 @@ The results will be saved in a structured JSON file with details such as subdoma
 
 The risk score and AI-driven summary will also be included in the output.
 
-Input Format:
+**Input Format:**
 The tool expects a CSV file with the following structure:
 domain
 example.com
