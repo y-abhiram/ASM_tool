@@ -1,5 +1,5 @@
 # ASM_tool
-Project Title:
+**Project Title:**
 Automated Attack Surface Monitoring Tool with AI-Powered Risk Analysis
 
 
@@ -13,7 +13,7 @@ This project involves the development of a fully automated tool that identifies 
 The tool also includes an AI-powered component that provides enhanced risk analysis based on the detected surface data.
   
    
-   **Features:**
+**Features:**
 
 Subdomain Enumeration: Identifies subdomains of a domain using popular tools like amass and subfinder.
 
