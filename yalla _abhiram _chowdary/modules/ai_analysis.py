@@ -25,5 +25,22 @@ def generate_summary(data):
     )[0]['generated_text']
 
     return {"risk_summary": result}
+'''import json
 
+import openai
+client = openai.OpenAI(api_key="apikey")  # Use OpenAI client
+
+def generate_summary(data):
+    prompt = f"""Analyze this data and provide:
+1. Summary of Key Risks
+2. Severity Level
+3. Suggest Remediation
+DATA: {json.dumps(data)}"""
+
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    return {"risk_summary": response.choices[0].message.content}'''
 
